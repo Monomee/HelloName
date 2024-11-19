@@ -1,0 +1,7 @@
+D:\CodeGym\Hello\Hello\bin\Debug\Hello.exe.config
+D:\CodeGym\Hello\Hello\bin\Debug\Hello.exe
+D:\CodeGym\Hello\Hello\bin\Debug\Hello.pdb
+D:\CodeGym\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+D:\CodeGym\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\CodeGym\Hello\Hello\obj\Debug\Hello.exe
+D:\CodeGym\Hello\Hello\obj\Debug\Hello.pdb
